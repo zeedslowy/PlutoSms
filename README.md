@@ -20,7 +20,9 @@
 You can follow the Telegram channel Telegram SMS Change Log for the latest news. [English](https://t.me/tg_sms_changelog_eng), 
 
 # Setup 💎
-[Toturial](https://github.com/zeedslowy/PlutoSms/tree/master/setup)
+[Install App 📲](https://github.com/zeedslowy/PlutoSms/tree/master/setup)
+
+# Guide 👀
 
 **Please visit [https://reall.uk](https://reall.uk) to submit and discuss issues regarding this project.**
 
