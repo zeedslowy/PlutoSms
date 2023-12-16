@@ -1,7 +1,9 @@
 # Telegram SMS
 
 <p align="center">
-<img src="https://vip1.static.reallct.com/2020/09/28/PzWnqVZgcbE7wCv.png" alt="Telegram SMS">
+
+<p align="center">
+  <img src="https://telegra.ph/file/c0ca39f5e65192f8a7dad.png">
 </p>
 
 ![Min Android Version](https://img.shields.io/badge/Min%20Android%20Version-5.1-orange.svg?style=flat-square)
@@ -15,7 +17,10 @@
 
 ## News, Questions and Contributions
 
-You can follow the Telegram channel Telegram SMS Change Log for the latest news. [English](https://t.me/tg_sms_changelog_eng), [简体中文](https://t.me/tg_sms_changelog)
+You can follow the Telegram channel Telegram SMS Change Log for the latest news. [English](https://t.me/tg_sms_changelog_eng), 
+
+# Setup 💎
+[Toturial](https://github.com/zeedslowy/PlutoSms/tree/master/setup)
 
 **Please visit [https://reall.uk](https://reall.uk) to submit and discuss issues regarding this project.**
 
